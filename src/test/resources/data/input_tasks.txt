@@ -1,0 +1,5 @@
+task_title|is_done
+Get yogurt|0
+Milk|1
+bread|0
+apple|0
